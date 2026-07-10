@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
