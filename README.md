@@ -57,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
