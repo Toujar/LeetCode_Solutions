@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
