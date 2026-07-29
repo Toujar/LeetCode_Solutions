@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
