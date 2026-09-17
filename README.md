@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
