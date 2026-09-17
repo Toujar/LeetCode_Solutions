@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Toujar/https-github.com-Toujar-LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
